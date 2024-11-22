@@ -1,5 +1,5 @@
 
-# **Stock Market Data Scraping, Cleaning, and Interactive Dashboard Project**
+# **   Interactive Asset Performance Tracker**
 
 This repository contains a comprehensive data project involving scraping financial data from the Yahoo Finance library, cleaning and organizing it, and creating an interactive dashboard for analysis. The dashboard provides insightful visualizations, filters, and a customizable UI.
 
